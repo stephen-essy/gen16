@@ -1,0 +1,22 @@
+{
+  "name": "gen16",
+  "version": "1.0.0",
+  "description": "Gen16 Innovative Solutions - Excavator Rental Services",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "npx serve .",
+    "lint": "echo 'No linting configured for static HTML'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "excavator",
+    "rental",
+    "construction"
+  ],
+  "author": "",
+  "license": "ISC"
+}
